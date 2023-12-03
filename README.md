@@ -63,6 +63,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![Screenshot (16)](https://github.com/12saif/Sticky-nav-bar-on-scroll-with-React-hooks/assets/98917571/04fee334-1150-4de9-9385-e09baf47012c)
+![Screenshot (17)](https://github.com/12saif/Sticky-nav-bar-on-scroll-with-React-hooks/assets/98917571/9cde9402-b29f-41ad-85a2-d84050677640)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
